@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsmita&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsmita" /> </p>
 
-- Fun Facts **I am funny**
+- Fun Facts **Beauty is power,a smile is its sword**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/smita patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smita patel" height="30" width="40" /></a>
