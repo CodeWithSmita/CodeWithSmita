@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smita Patel</h1>
-<h3 align="center">Graduate in Bachelor of commerce</h3
+<h3 align="center">Parsuing Masters in Computer Applications </h3
   
 
 
